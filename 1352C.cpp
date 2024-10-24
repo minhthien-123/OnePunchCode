@@ -15,7 +15,7 @@ signed main(){
         std::freopen(task".inp", "r", stdin);
         std::freopen(task".out", "w", stdout);
     }
-
+// ngu qua
     int t;
     std::cin >> t;
     while (t--){
