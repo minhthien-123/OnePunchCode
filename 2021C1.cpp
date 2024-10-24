@@ -10,6 +10,7 @@
 void solve(){
     int n, m, q;
     std::cin >> n >> m >> q;
+    // im not like the rest of you
 
     int a[n + 7], b[m + 7];
     bool flag[n + 7] = {false};
